@@ -6,7 +6,7 @@
 
 ## Aim :
 
-    To create a bayesian Network for the given dataset in Python
+To create a bayesian Network for the given dataset in Python
 
 ## Algorithm:
 
