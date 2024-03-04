@@ -194,7 +194,8 @@ plt.show()
 
 ## Output:
 
-![output](Output.png)
+![image](https://github.com/SaiDarshan2003/Ex1-AAI/assets/94692595/2c6b407a-ae84-4c05-bbf9-4b0b337f4de2)
+
 
 ## Result:
 
